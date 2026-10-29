@@ -1,0 +1,232 @@
+{
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "type": "fungal",
+    "cause": "Venturia inaequalis, spreads in cool wet spring weather",
+    "symptoms": "Olive-green to black velvety spots on leaves and fruit",
+    "remedy": "Apply a protectant fungicide (e.g. captan or myclobutanil) at green tip stage and repeat every 7-10 days during wet periods. Remove and destroy fallen leaves in autumn to cut overwintering spores.",
+    "severity": "medium",
+    "urgency": "Treat within a week to prevent spread"
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "disease": "Black Rot",
+    "type": "fungal",
+    "cause": "Botryosphaeria obtusa, enters through wounds and dead wood",
+    "symptoms": "Purple-bordered leaf spots, rotting fruit with concentric rings",
+    "remedy": "Prune out dead/cankered wood and mummified fruit. Apply fungicide (captan/thiophanate-methyl) starting at pink bud stage. Improve air circulation via pruning.",
+    "severity": "high",
+    "urgency": "Remove infected material immediately to stop spread"
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "disease": "Cedar Apple Rust",
+    "type": "fungal",
+    "cause": "Gymnosporangium juniperi-virginianae, requires nearby juniper/cedar host",
+    "symptoms": "Bright orange-yellow spots on leaves, tube-like structures on fruit",
+    "remedy": "Apply fungicide (myclobutanil) from pink bud through several weeks after petal fall. Remove nearby juniper/cedar trees if feasible, or plant rust-resistant apple varieties.",
+    "severity": "medium",
+    "urgency": "Treat during spring infection window"
+  },
+  "Apple___healthy": {
+    "crop": "Apple",
+    "disease": "Healthy",
+    "type": "none",
+    "cause": "N/A",
+    "symptoms": "No visible disease symptoms",
+    "remedy": "No treatment needed. Continue regular monitoring, balanced fertilization, and standard irrigation schedule.",
+    "severity": "none",
+    "urgency": "Routine monitoring only"
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "type": "bacterial",
+    "cause": "Xanthomonas spp., spreads via splashing water and contaminated tools",
+    "symptoms": "Small dark water-soaked spots on leaves and fruit that turn scabby",
+    "remedy": "Apply copper-based bactericide combined with mancozeb. Avoid overhead irrigation, avoid working in fields when plants are wet, and rotate crops for 2 years away from solanaceous plants.",
+    "severity": "medium",
+    "urgency": "Act before spots coalesce and defoliation begins"
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "type": "fungal",
+    "cause": "Alternaria solani, favored by warm humid conditions",
+    "symptoms": "Concentric 'target-spot' brown rings on lower/older leaves first",
+    "remedy": "Apply fungicide (chlorothalonil or mancozeb) every 7-10 days. Remove lower infected leaves, mulch to prevent soil splash, stake plants for airflow, and rotate crops.",
+    "severity": "medium",
+    "urgency": "Treat within a few days to protect fruiting stage"
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "type": "oomycete (water mold)",
+    "cause": "Phytophthora infestans, spreads extremely fast in cool wet weather",
+    "symptoms": "Large irregular water-soaked grey-green lesions, white fuzzy growth on leaf undersides",
+    "remedy": "This spreads fast and can destroy a field in days. Apply a systemic fungicide (e.g. chlorothalonil + metalaxyl or a copper-based product) immediately. Remove and destroy infected plants. Avoid overhead watering.",
+    "severity": "critical",
+    "urgency": "URGENT: treat same day, isolate/remove infected plants to protect the rest of the field"
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "type": "fungal",
+    "cause": "Passalora fulva, thrives in high humidity (common in greenhouses)",
+    "symptoms": "Pale green/yellow spots on upper leaf surface, olive-green mold underneath",
+    "remedy": "Improve ventilation and reduce humidity. Apply fungicide (chlorothalonil or copper-based). Avoid wetting foliage when watering.",
+    "severity": "low",
+    "urgency": "Treat within a week, mainly a humidity management issue"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "type": "fungal",
+    "cause": "Septoria lycopersici, spreads via water splash",
+    "symptoms": "Small circular spots with dark borders and grey centers, tiny black specks in center",
+    "remedy": "Remove infected lower leaves, apply fungicide (chlorothalonil or mancozeb), mulch soil, avoid overhead irrigation, rotate crops.",
+    "severity": "medium",
+    "urgency": "Treat before it spreads to upper canopy"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "disease": "Two-Spotted Spider Mite infestation",
+    "type": "pest",
+    "cause": "Tetranychus urticae, thrives in hot dry conditions",
+    "symptoms": "Fine yellow stippling on leaves, fine webbing, leaf bronzing",
+    "remedy": "Spray with insecticidal soap or miticide (abamectin). Introduce predatory mites (Phytoseiulus persimilis) if available. Increase humidity around plants to discourage mites.",
+    "severity": "medium",
+    "urgency": "Treat within a few days before population explodes"
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "disease": "Target Spot",
+    "type": "fungal",
+    "cause": "Corynespora cassiicola, favored by warm humid weather",
+    "symptoms": "Brown lesions with concentric rings, similar to early blight but on both leaves and fruit",
+    "remedy": "Apply fungicide (azoxystrobin or chlorothalonil), improve air circulation via pruning/staking, avoid overhead irrigation.",
+    "severity": "medium",
+    "urgency": "Treat within a week"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "disease": "Yellow Leaf Curl Virus",
+    "type": "viral",
+    "cause": "Transmitted by whiteflies (Bemisia tabaci)",
+    "symptoms": "Upward curling, yellowing leaves, stunted growth, reduced fruit",
+    "remedy": "No cure once infected - remove and destroy infected plants to stop spread. Control whitefly vector with insecticide or yellow sticky traps. Use virus-resistant tomato varieties next season.",
+    "severity": "critical",
+    "urgency": "URGENT: remove infected plants immediately, target whiteflies to protect healthy plants"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "type": "viral",
+    "cause": "Highly contagious virus spread by contact, tools, hands, seeds",
+    "symptoms": "Mottled light/dark green leaves, leaf distortion, stunted growth",
+    "remedy": "No chemical cure - remove and destroy infected plants. Disinfect tools with 10% bleach solution between plants. Wash hands before handling plants. Use certified virus-free seed next season.",
+    "severity": "high",
+    "urgency": "Remove infected plants promptly to prevent field-wide spread"
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "type": "none",
+    "cause": "N/A",
+    "symptoms": "No visible disease symptoms",
+    "remedy": "No treatment needed. Continue regular monitoring, balanced fertilization, and standard irrigation schedule.",
+    "severity": "none",
+    "urgency": "Routine monitoring only"
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "type": "fungal",
+    "cause": "Alternaria solani, favored by warm humid weather, stressed plants",
+    "symptoms": "Dark concentric-ring spots on older leaves first",
+    "remedy": "Apply fungicide (chlorothalonil or mancozeb) on a 7-10 day schedule. Ensure balanced nitrogen fertilization (both excess and deficiency increase susceptibility), rotate crops.",
+    "severity": "medium",
+    "urgency": "Treat within a week"
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "type": "oomycete (water mold)",
+    "cause": "Phytophthora infestans - the pathogen behind the Irish Potato Famine, spreads very fast in cool wet weather",
+    "symptoms": "Water-soaked dark lesions on leaves, white mold on undersides, rapid plant collapse",
+    "remedy": "Apply systemic fungicide immediately (metalaxyl + mancozeb/chlorothalonil). Destroy infected plants and tubers. Do not compost infected material. Avoid overhead irrigation.",
+    "severity": "critical",
+    "urgency": "URGENT: same-day treatment, this can wipe out the entire field within days"
+  },
+  "Potato___healthy": {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "type": "none",
+    "cause": "N/A",
+    "symptoms": "No visible disease symptoms",
+    "remedy": "No treatment needed. Continue regular monitoring and standard care.",
+    "severity": "none",
+    "urgency": "Routine monitoring only"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Corn (Maize)",
+    "disease": "Common Rust",
+    "type": "fungal",
+    "cause": "Puccinia sorghi, favored by cool moist weather",
+    "symptoms": "Small reddish-brown pustules on both leaf surfaces",
+    "remedy": "Apply fungicide (azoxystrobin or propiconazole) if infection appears before tasseling. Plant rust-resistant hybrids. Usually minor if it appears late in season.",
+    "severity": "low",
+    "urgency": "Monitor; treat only if severe before tasseling"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Corn (Maize)",
+    "disease": "Northern Leaf Blight",
+    "type": "fungal",
+    "cause": "Exserohilum turcicum, favored by moderate temps and high humidity",
+    "symptoms": "Long cigar-shaped grey-green lesions on leaves",
+    "remedy": "Apply fungicide (strobilurin or triazole class) if detected before tasseling and conditions favor spread. Rotate crops, use resistant hybrids, till under crop residue.",
+    "severity": "medium",
+    "urgency": "Treat within a week if disease is spreading up the canopy"
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "Corn (Maize)",
+    "disease": "Healthy",
+    "type": "none",
+    "cause": "N/A",
+    "symptoms": "No visible disease symptoms",
+    "remedy": "No treatment needed. Continue regular monitoring and standard care.",
+    "severity": "none",
+    "urgency": "Routine monitoring only"
+  },
+  "Grape___Black_rot": {
+    "crop": "Grape",
+    "disease": "Black Rot",
+    "type": "fungal",
+    "cause": "Guignardia bidwellii, favored by warm wet spring weather",
+    "symptoms": "Brown circular leaf spots, fruit shrivels into hard black mummies",
+    "remedy": "Apply fungicide (mancozeb or myclobutanil) starting at bud break through several weeks post-bloom. Remove mummified fruit and infected canes during dormant pruning.",
+    "severity": "high",
+    "urgency": "Treat before bloom to protect developing fruit"
+  },
+  "Grape___healthy": {
+    "crop": "Grape",
+    "disease": "Healthy",
+    "type": "none",
+    "cause": "N/A",
+    "symptoms": "No visible disease symptoms",
+    "remedy": "No treatment needed. Continue regular monitoring and standard care.",
+    "severity": "none",
+    "urgency": "Routine monitoring only"
+  },
+  "_default": {
+    "crop": "Unknown",
+    "disease": "Unrecognized class",
+    "type": "unknown",
+    "cause": "This class was not found in the knowledge base",
+    "symptoms": "N/A",
+    "remedy": "No remedy on file for this class yet. Please add an entry to disease_remedies.json, or consult a local agronomist.",
+    "severity": "unknown",
+    "urgency": "Flag for manual review"
+  }
+}
